@@ -14,6 +14,11 @@ This project demonstrates stock price prediction for Apple Inc. (AAPL) using his
 - Evaluates both models using RMSE and visualizes the predicted and actual stock prices.
 - Provides future stock price predictions based on the last 60 days of data.
 
+## Screenshot:
+<p align="center">
+  <img src="stock.png" alt="Stock Prediction Screenshot" />
+</p>
+
 ## Prerequisites:
 - Python 3.x
 - Pandas
